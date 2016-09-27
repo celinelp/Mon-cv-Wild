@@ -1,0 +1,98 @@
+header {
+	margin-top: 50px;
+	font-size: 1.8em;
+	color: #5B586B;
+}
+
+body{
+	background-color: rgb(104,187,285);
+	font font-family: 
+	width: 780px;
+
+
+}
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 1.4em;
+}
+h1, h2{
+	color: black;
+	text-decoration: underline;
+}
+
+p,.language, .loisir{
+	color: white;
+
+}
+#container{
+	width:100%;
+	height: 870px;
+}
+#right-box {
+
+	border: 1px solid black;
+	padding: 20px;
+	margin-top: 50px;
+	float: right;
+  	width: 60%;
+  	height: 800px;
+  	left: 35%;
+  	top:24%;
+  	background-color: #F7D0AD;
+}
+
+
+#left-box {
+	float: left;
+	color: white;
+	width: 18%;
+	height:830px;
+	margin: 70px;
+	padding-top: 40px;
+	padding-right: 30px;
+	padding-left: 30px;
+	border: 1px solid black;
+	position: relative;
+	bottom: 03%;
+	color: grey;
+	background-color: #F7D0AD;
+	
+
+}
+
+
+#experiences-box {
+	border: 1px solid black;
+	padding-left: 20px;
+
+	}
+
+#studies-box {
+	border: 1px solid black;
+	padding-left: 20px;
+
+}
+#studies-autres {
+	border: 1px solid black;
+	padding-left: 20px;
+
+
+}
+#description {
+	text-align: justify;
+}
+#langues{
+	line-height: 20px;
+}
+p {
+	color: black;
+}
+footer {
+	position: relative;
+	left: 77px;
+	top: 20px;
+	width: 100%;
+	font-size: 1.8em;
+	
+}
